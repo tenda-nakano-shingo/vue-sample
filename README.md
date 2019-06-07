@@ -18,37 +18,32 @@
 
 ---
 
-以下はコマンドが2つ記載されていますが、
-お使いのパッケージ管理ツール(npmまたはyarn)によって使い分けてください。
+以下はnpm用のコマンドを記載していますが、
+yarnをお使いの方は適宜コマンドを置き換えてください。
 
 ## Project setup
 ```shell
 npm install
-yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```shell
 npm run serve
-yarn run serve
 ```
 
 ### Compiles and minifies for production
 ```shell
 npm run build
-yarn run build
 ```
 
 ### Run your tests
 ```shell
 npm run test
-yarn run test
 ```
 
 ### Lints and fixes files
 ```shell
 npm run lint
-yarn run lint
 ```
 
 ### Customize configuration
